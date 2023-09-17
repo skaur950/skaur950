@@ -1,4 +1,6 @@
 ### Hi there 👋
+Simran Kaur
+OPS445NCC
 
 <!--
 **skaur950/skaur950** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
